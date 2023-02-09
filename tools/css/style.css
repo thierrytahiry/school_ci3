@@ -1,0 +1,14 @@
+.page_container{
+    padding-top: 50px; 
+    margin-left: 5px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: none;
+    margin-left: 760px;
+}
+.element.style {
+    width: 518px;
+}
